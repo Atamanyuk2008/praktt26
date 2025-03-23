@@ -1,0 +1,7 @@
+D:\visua\26n4\bin\Debug\26n4.exe.config
+D:\visua\26n4\bin\Debug\26n4.exe
+D:\visua\26n4\bin\Debug\26n4.pdb
+D:\visua\26n4\obj\Debug\26n4.csproj.AssemblyReference.cache
+D:\visua\26n4\obj\Debug\26n4.csproj.CoreCompileInputs.cache
+D:\visua\26n4\obj\Debug\26n4.exe
+D:\visua\26n4\obj\Debug\26n4.pdb
