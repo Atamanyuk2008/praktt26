@@ -1,0 +1,7 @@
+D:\visua\prakt26n1\bin\Debug\prakt26n1.exe.config
+D:\visua\prakt26n1\bin\Debug\prakt26n1.exe
+D:\visua\prakt26n1\bin\Debug\prakt26n1.pdb
+D:\visua\prakt26n1\obj\Debug\prakt26n1.csproj.AssemblyReference.cache
+D:\visua\prakt26n1\obj\Debug\prakt26n1.csproj.CoreCompileInputs.cache
+D:\visua\prakt26n1\obj\Debug\prakt26n1.exe
+D:\visua\prakt26n1\obj\Debug\prakt26n1.pdb
